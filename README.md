@@ -11,3 +11,10 @@ IMPORTANT!
 This great tool currently uses the incredible Perseus Latin Word Study Tool, which can be found at http://www.perseus.tufts.edu/hopper/morph?l=sum&la=la
 
 Unfortunately, the Latin Word Study Tool is known for sometimes giving misleading definitions, so be cautious. This should not be a replacement for doing your Latin homework.
+
+TODO
+================
+
+Better Definition Retrieval
+
+Retrieve text by document/lines through Latin Library?
