@@ -44,6 +44,10 @@ public class LatinVocab {
 		text = text.replaceAll("0", "");
 		text = text.replaceAll("  ", "");
 		text = text.replaceAll("-", "");
+		text = text.replace("(", "");
+		text = text.replace(")", "");
+		text = text.replace("[", "");
+		text = text.replace("]", "");
 		
 		// Split into words
 		String[] words = text.split(" ");
