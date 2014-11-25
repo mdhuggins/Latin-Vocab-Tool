@@ -15,6 +15,8 @@ Unfortunately, the Latin Word Study Tool is known for sometimes giving misleadin
 TODO
 ================
 
+Ignore Capitals in Sorting
+
 Better Definition Retrieval
 
 Retrieve text by document/lines through Latin Library?
