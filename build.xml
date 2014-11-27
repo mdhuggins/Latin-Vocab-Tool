@@ -1,4 +1,4 @@
-<project name=“LatinWordTool“ basedir=“Latin Word Tool”/>
+<project name=“LatinWordTool“ basedir=“.”>
     <description>
         Latin Word Tool
     </description>
