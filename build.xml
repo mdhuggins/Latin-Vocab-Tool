@@ -1,4 +1,4 @@
-<project name="Latin Word Tool" basedir="Latin Word Tool”/>
+<project name="Latin Word Tool" basedir="Latin Word Tool"/>
     <description>
         Latin Word Tool
     </description>
@@ -16,7 +16,7 @@
 
   <target name="compile" depends="init"
         description="compile the source " >
-    <!-- Compile the java code from ${src} into ${build} -->
+    <!-- Compile the java code from ${src} into ${build} —>
     <javac srcdir="${src}" destdir="${build}"/>
   </target>
 
