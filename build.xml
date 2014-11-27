@@ -1,4 +1,4 @@
-<project name=“Latin Word Tool“ default="dist" basedir=“.”/“Latin Word Tool”>
+<project name=“Latin Word Tool“ default="dist" basedir=“Latin Word Tool”>
     <description>
         Latin Word Tool
     </description>
