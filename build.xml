@@ -26,4 +26,8 @@
     <delete dir="${build}"/>
     <delete dir="${dist}"/>
   </target>
+  <target name="test"
+            depends="junit,junitreport"
+            description="Runs unit tests and creates a report"
+    />
 </project>
