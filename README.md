@@ -20,3 +20,5 @@ Ignore Capitals in Sorting
 Better Definition Retrieval
 
 Retrieve text by document/lines through Latin Library?
+
+Add support for ae characters
